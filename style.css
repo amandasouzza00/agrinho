@@ -71,7 +71,7 @@ main {
 }
 
 img {
-    width: 80%;
+    max-width: 1800px;
     border-radius: 8px;
     margin-top: 20px;
 }
